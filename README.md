@@ -88,7 +88,7 @@ Built to uncover key business insights and support data-driven decision-making.
 
 
 ## 👩‍💻 Author
-Shreya Itlod
+Anagha Totade
 * 🎓 B.Tech, Chemical Engineering | IIT Indore
 * 💼 LinkedIn Profile (https://www.linkedin.com/in/anagha-totade)
 * 📧 Email (anaghatotade@gmail.com)
